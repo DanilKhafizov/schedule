@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Главная"
+        android:icon="@drawable/home_icon"
+        android:checked="true"
+        app:iconTint="@color/nav_menu"/>
+    <item
+        android:title="Расписание"
+        android:icon="@drawable/schedule_icon"
+        app:iconTint="@color/nav_menu"
+        android:checked="false"
+        android:id="@+id/bottom_schedule"/>
+</menu>

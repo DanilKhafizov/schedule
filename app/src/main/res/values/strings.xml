@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">ScheduleApp</string>
+    <string name="reg_string">Зарегистрироваться</string>
+    <string name="reg1_string">Регистрация</string>
+    <string name="autho_string">Авторизация</string>
+    <string name="dont_have_account_string">Нет уч. записи</string>
+    <string name="sign_in_string">Войти</string>
+    <string name="have_account_string">Уже есть аккаунт</string>
+    <string name="enter_details_string">Введите свои данные, чтобы продолжить</string>
+    <string name="reg_details_string">Зарегистрируйтесь, чтобы пользоваться приложением</string>
+    <string name="manage_text_string">Управляйте своими тренировками</string>
+    <string name="enjoy_reg_text">“Наслаждайтесь процессом тренировки, и результаты не заставят себя долго ждать!”</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ferrum_name">Фитнес-клуб "Ferrum"</string>
+    <string name="invite_text">Приглашаем на первую БЕСПЛАТНУЮ тренировку в наш клуб!</string>
+    <string name="pavel_name">Павел Турчанинов</string>
+    <string name="jason_name">Джейсон Стэтхэм</string>
+    <string name="sarah_name">Сара Сампайо</string>
+    <string name="trainer_text">Фитнес-тренер</string>
+    <string name="manager_text">Директор</string>
+    <string name="main_trainer_text">Главный тренер</string>
+    <string name="accounting_text">Бухгалтер</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pavel_text">Провожу персональные тренировки в фитнес-клубе Ferrum, желающие потренироваться, привести свое тело в порядок и держать в тонусе пишите в личку в ВК.</string>
+    <string name="pavel_VK"><a href="https://vk.com/id374508870">Страница ВКонтакте</a></string>
+    <string name="pavel_phone">+ 7 (992) 356-88-77</string>
+    <string name="jason_text">Не важно, как именно тебя ударили, важно, что ты встал и смог ответить.</string>
+    <string name="jason_phone">+ 7 (993) 155-13-11</string>
+    <string name="jason_VK"><a href="https://vk.com/id374508870">Страница ВКонтакте</a></string>
+    <string name="sarah_text">Вы можете добиться всего, чего хотите, если запишитесь на мои тренировки.</string>
+    <string name="sarah_phone">+ 7 (993) 151-16-99</string>
+    <string name="sarah_VK"><a href="https://vk.com/id374508870">Страница ВКонтакте</a></string>
+    <string name="personal_text">Персональные тренировки</string>
+    <string name="personal_text_pavel">Павел Турчанинов – от 2 500 р.</string>
+    <string name="personal_text_jason">Джейсон Стэтхэм – от 2 999 р.</string>
+    <string name="personal_text_sarah">Сара Сампайо – от 1000 р.</string>
+    <string name="group_text">Групповые тренировки</string>
+    <string name="group_text_jason">Джейсон Стэтхэм – от 10 000 р.</string>
+    <string name="group_text_sarah">Сара Сампайо – от 2 500 р.</string>
+    <string name="cycle_text">Сайкл тренировки</string>
+    <string name="cycle_text_sarah">Сара Сампайо – от 2 500 р.</string>
+    <string name="tennis_text">Настольный теннис</string>
+    <string name="edit_text">Редактировать</string>
+    <string name="personal_data_text">Личные данные</string>
+    <string name="contact_details_text">Контактные данные</string>
+    <string name="settings_text">Настройки</string>
+    <string name="surname_text">Фамилия</string>
+    <string name="name_text">Имя</string>
+    <string name="birthday_text">Дата рождения</string>
+    <string name="email_text">Email</string>
+    <string name="phone_text">Номер телефона</string>
+    <string name="language_text">Язык</string>
+    <string name="dark_theme_text">Тёмная тема</string>
+    <string name="textStyle_text">Изменить стиль текста</string>
+    <string name="chooseLang_text">Выберите язык:</string>
+    <string name="chooseTheme_text">Выберите тему:</string>
+    <string name="chooseStyle_text">Выберите стиль текста:</string>
+    <string name="changePhoto_text">Изменить фото</string>
+    <string name="apply_text">Применить</string>
+    <string name="home_text">на главную</string>
+    <string name="password_text">Пароль</string>
+    <string name="role_text">Роль</string>
+</resources>
